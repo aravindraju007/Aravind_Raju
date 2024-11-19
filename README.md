@@ -13,10 +13,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                | Associated Project         |
-|--------------------|----------------------------|
-|    Languages:      | Python, R, SQL, MATLAB, C,|
-| Packages :         |Sklearn, Pandas, PyTorch, Keras, TensorFlow, Numpy, NLTK, Matplotlib, |
+| Skill                              | Associated Project         |
+|------------------------------------|----------------------------|
+| Python, R, SQL, MS Excel, Tableau, AWS QuickSight| Comprehensive COVID-19 Data Analysis Project.Used SQL to examine and visualize critical metrics from a dataset on COVID-19 vaccinations and deaths. Conducted extensive analysis to understand the disease's impact|
+|  Scikit-learn, TensorFlow, PyTorch, Feature Engineering|Machine Learning Model API for CO2 Emissions Forecasting.Developed and deployed an API using Python for forecasting CO2 emissions, contributing to sustainability initiatives.|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
