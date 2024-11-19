@@ -24,6 +24,49 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 
+Data Cleaning and Preprocessing
+Skill: Pandas, Numpy, ETL, Data Quality, Data Warehousing
+Project: Data Cleaning for Housing & Communities Dataset
+Gathered, cleaned, and analyzed large datasets from government sources.
+Ensured data quality and consistency for actionable insights.
+4. Statistical Analysis
+Skill: Bayesian Statistics, Hypothesis Testing, Bootstrapping, A/B Testing
+Project: Rainfall Prediction in Australia
+Engineered machine learning models in R to predict the likelihood of rainfall.
+Applied statistical inference techniques to improve model accuracy.
+5. Cloud Computing and DevOps Integration
+Skill: AWS, GCP, CI/CD Pipelines, DevOps Collaboration
+Project: Integrating ML Model APIs into Existing Systems
+Worked with DevOps to deploy ML APIs, ensuring smooth integration and system scalability.
+6. Research and Computational Neuroscience
+Skill: MATLAB, Network Simulation, Raster Plots
+Project: Simulating Spiking Neural Networks
+Conducted simulations to analyze the effects of learning rules on neural network stability.
+Examined network parameters using tools like power spectral density analysis.
+7. Data Governance and Business Intelligence
+Skill: Data Governance, BI Tools, Stakeholder Engagement
+Project: Database Management and Reporting
+Created dashboards and reports for stakeholders using AWS QuickSight and Python visualizations.
+Promoted data quality and compliance through governance best practices.
+8. Atmospheric Data Analysis
+Skill: Statistical Analysis, Data Mining
+Project: Variability of Lightning During Different Scenarios
+Analyzed 18 years of satellite data to study lightning variability and its relationship with climate phenomena like El-Niño and La-Niña.
+9. Programming and Algorithm Development
+Skill: Python, C++, MATLAB
+Project: Graphical Representation of Physics Concepts
+Developed a C++ program to visualize projectile motion and magnetic field variations in superconductivity.
+
+
+
+
+
+
+
+
+
+
+
 
 |Languages: |Python, R, SQL, MATLAB, C,|
 ● |Packages : Sklearn, Pandas, PyTorch, Keras, TensorFlow, Numpy, NLTK,
