@@ -17,32 +17,35 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |------------------------------------|----------------------------|
 | Python, R, SQL, MS Excel, Tableau, AWS QuickSight| Comprehensive COVID-19 Data Analysis Project.Used SQL to examine and visualize critical metrics from a dataset on COVID-19 vaccinations and deaths. Conducted extensive analysis to understand the disease's impact|
 |  Scikit-learn, TensorFlow, PyTorch, Feature Engineering|Machine Learning Model API for CO2 Emissions Forecasting.Developed and deployed an API using Python for forecasting CO2 emissions, contributing to sustainability initiatives.|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Pandas, Numpy, ETL, Data Quality, Data Warehousing         | Data Cleaning for Housing & Communities Dataset Gathered, cleaned, and analyzed large datasets from government sources. Ensured data quality and consistency for actionable insights. |
+|  Bayesian Statistics, Hypothesis Testing, Bootstrapping, A/B Testing  | Engineered machine learning models in R to predict the likelihood of rainfall. Applied statistical inference techniques to improve model accuracy.|
+| AWS, GCP, CI/CD Pipelines, DevOps Collaboration  | Integrating ML Model APIs into Existing Systems. Worked with DevOps to deploy ML APIs, ensuring smooth integration and system scalability.|
+|  MATLAB, Network Simulation, Raster Plots | Simulating Spiking Neural Networks. Conducted simulations to analyze the effects of learning rules on neural network stability.Examined network parameters using tools like power spectral density analysis. |
+|    |    |     |
+|     |     |    |
+|     |     |    |
+|    |     |      |
 
 
-
-Data Cleaning and Preprocessing
-Skill: Pandas, Numpy, ETL, Data Quality, Data Warehousing
-Project: Data Cleaning for Housing & Communities Dataset
-Gathered, cleaned, and analyzed large datasets from government sources.
-Ensured data quality and consistency for actionable insights.
-4. Statistical Analysis
-Skill: Bayesian Statistics, Hypothesis Testing, Bootstrapping, A/B Testing
-Project: Rainfall Prediction in Australia
-Engineered machine learning models in R to predict the likelihood of rainfall.
-Applied statistical inference techniques to improve model accuracy.
-5. Cloud Computing and DevOps Integration
-Skill: AWS, GCP, CI/CD Pipelines, DevOps Collaboration
-Project: Integrating ML Model APIs into Existing Systems
-Worked with DevOps to deploy ML APIs, ensuring smooth integration and system scalability.
-6. Research and Computational Neuroscience
-Skill: MATLAB, Network Simulation, Raster Plots
-Project: Simulating Spiking Neural Networks
-Conducted simulations to analyze the effects of learning rules on neural network stability.
-Examined network parameters using tools like power spectral density analysis.
+#Data Cleaning and Preprocessing
+#Skill: Pandas, Numpy, ETL, Data Quality, Data Warehousing
+#Project: Data Cleaning for Housing & Communities Dataset
+#Gathered, cleaned, and analyzed large datasets from government sources.
+#Ensured data quality and consistency for actionable insights.
+#4. Statistical Analysis
+#Skill: Bayesian Statistics, Hypothesis Testing, Bootstrapping, A/B Testing
+#Project: Rainfall Prediction in Australia
+#Engineered machine learning models in R to predict the likelihood of rainfall.
+#Applied statistical inference techniques to improve model accuracy.
+#5. Cloud Computing and DevOps Integration
+#Skill: AWS, GCP, CI/CD Pipelines, DevOps Collaboration
+#Project: Integrating ML Model APIs into Existing Systems
+#Worked with DevOps to deploy ML APIs, ensuring smooth integration and system scalability.
+#6. Research and Computational Neuroscience
+#Skill: MATLAB, Network Simulation, Raster Plots
+#Project: Simulating Spiking Neural Networks
+#Conducted simulations to analyze the effects of learning rules on neural network stability.
+#Examined network parameters using tools like power spectral density analysis.
 7. Data Governance and Business Intelligence
 Skill: Data Governance, BI Tools, Stakeholder Engagement
 Project: Database Management and Reporting
